@@ -25,7 +25,7 @@ test("return the maximum number", () => {
         {
             name: "faile-case",
             input: [11, 12],
-            expected: 1,
+            expected: 12,
         },
     ]
 
