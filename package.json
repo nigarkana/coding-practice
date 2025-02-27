@@ -1,0 +1,18 @@
+{
+  "name": "coding-practice",
+  "version": "1.0.0",
+  "description": "JS Coding Practice",
+  "license": "ISC",
+  "author": "Nigar Kana",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "test_coverage": "jest --coverage"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "jest": "^29.7.0"
+  }
+}
