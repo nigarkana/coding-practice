@@ -166,12 +166,12 @@ var myArrary = [1,2,3,4,5]
 //     i-=1
 
 
-function addition(a, b) {        
-    let sum = a + b   
-    return sum
-}
+// function addition(a, b) {        
+//     let sum = a + b   
+//     return sum
+// }
 
-console.log(addition(10, 100)) 
+// console.log(addition(10, 100)) 
 
 // arrow function
 const additionArrow = (a, b) => {        
