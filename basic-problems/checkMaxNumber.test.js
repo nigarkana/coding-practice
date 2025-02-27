@@ -22,6 +22,11 @@ test("return the maximum number", () => {
             input: [11, 12],
             expected: 12,
         },
+        {
+            name: "faile-case",
+            input: [11, 12],
+            expected: 1,
+        },
     ]
 
     for(const testCase of testCases) {
